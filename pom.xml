@@ -22,5 +22,6 @@
 		<module>UserServer</module>
 		<module>DepartmentServer</module>
 	</modules>
+	<build><finalName> spring-security-tutorial </finalName></build>
 
 </project>
