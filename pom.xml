@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.dailycodebuffer</groupId>
-	<artifactId>spring-security-tutorial</artifactId>
+	<artifactId>spring-security-tutorial-with--microservices-OAuth2.0</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<properties>
@@ -22,6 +22,6 @@
 		<module>UserServer</module>
 		<module>DepartmentServer</module>
 	</modules>
-	<build><finalName> spring-security-tutorial </finalName></build>
+	<build><finalName> spring-security-tutorial-with--microservices-OAuth2.0 </finalName></build>
 
 </project>
